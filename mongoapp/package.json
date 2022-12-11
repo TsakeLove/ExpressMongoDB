@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "body-parser": "^1.18.0",
-    "express": "^4.16.0",
+    "express": "^4.17.3",
     "mongodb": "file:node_modules/mongodb"
   }
 }
